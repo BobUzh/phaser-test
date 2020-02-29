@@ -23,7 +23,7 @@ body {
     height: 100%;
    }
   .wrapper{
-    background: url('/assets/images/backgrounds/gorizontal.jpg') no-repeat center center;
+    background: url('assets/images/backgrounds/gorizontal.jpg') no-repeat center center;
     background-size: auto 100%;
   }
  }
@@ -32,7 +32,7 @@ body {
     width: 100%;
    }
    .wrapper{
-    background: url('/assets/images/backgrounds/vertical.jpg') no-repeat center center;
+    background: url('assets/images/backgrounds/vertical.jpg') no-repeat center center;
     background-size: 100% auto;
   }
  }
